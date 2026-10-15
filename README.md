@@ -4,15 +4,23 @@ MarchLite is a community-built desktop client for [Fallen Marches](https://falle
 
 ## Approved version
 
-**MarchLite 1.0.27** – [download from Releases](https://github.com/JamP91337/MarchLite-releases/releases/latest)
+**MarchLite 1.0.31** – [download from Releases](https://github.com/JamP91337/MarchLite-releases/releases/latest)
 
 Only the version named here is approved. Other versions, forks or modified builds are not.
 
 ## Installing
 
+**Windows**
+
 1. Download `MarchLite-Setup.exe` from the release.
 2. Optionally check its SHA-256 matches the one in the release notes.
 3. Run it. The installer isn't code-signed, so Windows SmartScreen will warn you. Choose **More info → Run anyway**.
+
+**Linux (x64)**
+
+1. Download `MarchLite-x86_64.AppImage` from the release.
+2. Optionally check its SHA-256 matches the one in the release notes.
+3. Make it executable (`chmod +x MarchLite-x86_64.AppImage`) and run it.
 
 ## Rules
 

@@ -4,7 +4,7 @@ MarchLite is a community-built desktop client for [Fallen Marches](https://falle
 
 ## Approved version
 
-**MarchLite 1.1.0** – [download from Releases](https://github.com/JamP91337/MarchLite-releases/releases/latest)
+**MarchLite 1.2.1** – [download from Releases](https://github.com/JamP91337/MarchLite-releases/releases/latest)
 
 Only the version named here is approved. Other versions, forks or modified builds are not.
 
